@@ -131,12 +131,6 @@ Listary是一个革命性的搜索工具。
 [https://www.bilibili.com/](https://www.bilibili.com/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211185230526.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
-## <font color="red">youtube
-油管的强大就不说了，什么都有，但是这个需要科学上网。
-
-[https://www.youtube.com/](https://www.youtube.com/)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211190537319.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-
 ## 慕课网 : 
 主要是针对计算机方面的教程，程序员的天堂！
 
@@ -163,59 +157,7 @@ Listary是一个革命性的搜索工具。
 
 [https://www.bilibili.com/video/av21376839/](https://www.bilibili.com/video/av21376839/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211193031691.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-
-## <font color="red">LearnOpenGL：
-非常nice的一个**OpenGL**教程！比较系统全面！
-
-[https://learnopengl-cn.github.io/](https://learnopengl-cn.github.io/)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211192730335.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-
-## The Book of Shaders
-**Shader教程**
-[https://thebookofshaders.com/?lan=ch](https://thebookofshaders.com/?lan=ch)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211192922259.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-## <font color="red">Shadertoy
-shadertoy是一个在浏览器中教学3D图形学的在线社区和通过WebGL创建分享shader程序的工具。
-一个很好的shader学习网站，里面展示了各路大神分享的炫酷特效！非常震撼！！
-
-[https://www.shadertoy.com/](https://www.shadertoy.com/)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211193902801.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-## <font color="red">Sandbox Gallery - Shader
-**看图说话:**
-
-[http://glslsandbox.com/](http://glslsandbox.com/)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211194132665.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-
-## Three.js
-three.js是JavaScript编写的WebGL第三方库，提供了非常多的3D显示功能。
-如果你想在网页上构建3D程序，那么three.js是你的不二选择！
-
-[https://threejs.org/](https://threejs.org/)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211194919437.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-## WebGL中文网
-如果你对WebGL感兴趣，如果你对Three.js感兴趣。
-这应该是一个不错的教程，它将做到两个第一。第一，它将是国内第一部完整讲解Threejs的教程。第二，它将是讲得最清楚的一部中文教程。
-
-[http://www.hewebgl.com/article/articledir/1](http://www.hewebgl.com/article/articledir/1)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211195010753.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-
-
 # ------------------------------工具篇-------------------------------
-
-## <font color="red">Shader建模工具
-[http://www.iquilezles.org/apps/graphtoy/](http://www.iquilezles.org/apps/graphtoy/)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211200852982.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-## <font color="red">2D图形函数绘制工具
-[https://www.desmos.com/calculator](https://www.desmos.com/calculator)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211201040755.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-## <font color="red">3D图形函数绘制工具
-**3D图形函数绘制工具** 只是这里面的一部分,里面还包含了物理、地理等模拟工具。
-
-[https://academo.org/demos/3d-surface-plotter/](https://academo.org/demos/3d-surface-plotter/)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211200600231.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211201555678.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211201548411.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 ## <font color="red">CODELF 变量命名
 [https://unbug.github.io/codelf](https://unbug.github.io/codelf)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211202126307.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
@@ -228,13 +170,6 @@ three.js是JavaScript编写的WebGL第三方库，提供了非常多的3D显示�
 ## <font color="red">在线自动抠图
 [网站链接](https://www.gaoding.com/clip?id=57883474)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122222057483.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-
-## 图形计算器 - GeoGebra
-输入函数就能绘制出对应的图形。
-
-[网站链接](https://www.geogebra.org/graphing)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122222140740.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
 ## 在线编辑图片
 在线可批量编辑图片的所有工具
@@ -312,26 +247,11 @@ PDF、World、Excel相互转换，压缩等等功能。
 
 [网站链接](https://www.biubiuiu.com/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211121518748.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
- ## 蛮牛游戏: 各种游戏美术资源
-**蛮牛游戏:**  游戏开发者应该比较熟悉的一个论坛, 包含了各种丰富的美术素材网站  **材质贴图**，**3D模型**，**插件**，**视频教程** **项目源码**等等.
 
-[网站链接](http://www.manew.com/forum-textures-1.html)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211122747202.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
- 
- ##  <font color="red">3D Models for Professionals : 3D模型资源
- [网站地址](https://www.turbosquid.com/)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211123753189.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
-## 3D Export : 3D模型,纹理,教程
-包含了丰富的3D模型,CG纹理贴图,动画,还有各种教程等等.
-[网站链接](https://tuts.3dexport.com/?l=chinese)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211125901156.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
- ## CG Texture: 3D纹理资源
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211124825619.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
- 
- ## Super Game Asset : 2D美术资源
- 精品2D美术资源,有收费 也有免费的.
- 
- [网站链接](http://www.supergameasset.com/)![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211123142227.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
+## zcool站酷
+[网站链接](https://www.zcool.com.cn/)
+![在这里插入图片描述](./2021-01-06_10-43-19.png)
+
 ## <font color="red">阿里巴巴矢量图标库
 [网站链接](https://www.iconfont.cn/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211165922990.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
@@ -358,6 +278,14 @@ CodePen是一个完全免费的前端代码托管服务, 支持在线编辑,实�
 
 [网站地址](https://codepen.io/collection/XLebem/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211143937775.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
+
+## JQuery插件库
+
+支持在线编辑,实时预览功能,有着许多让人惊艳的炫酷特效和各种效果源码!
+
+[网站地址](https://www.jq22.com/)
+![在这里插入图片描述](./2021-01-06_10-39-58.png)
+
 ## jQuery之家: 
 [网站地址](http://www.htmleaf.com/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191211142649665.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
