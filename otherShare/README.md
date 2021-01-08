@@ -5,7 +5,7 @@
 # 软件篇：
 
 
-## 1.Q-Dir :  文件管理，多个窗口叠加。
+## 1.Q-Dir : 文件管理，多个窗口叠加。
 [下载链接](https://q-dir.en.softonic.com/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122125337820.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 ## 2.Clover :  文件管理。
@@ -56,7 +56,7 @@ Listary是一个革命性的搜索工具。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191122133133720.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4Mjk5MzEx,size_16,color_FFFFFF,t_70)
 
 
-## <font color="red">7.Snipaste:  截屏神器。
+## <font color="red">7.Snipaste:  截屏神器。 
 
 **Snipaste** 一个简单而强大的截屏神器，还可以将截图固定在屏幕上。
 
